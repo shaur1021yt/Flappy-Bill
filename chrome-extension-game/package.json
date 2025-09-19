@@ -1,0 +1,19 @@
+{
+  "name": "chrome-extension-game",
+  "version": "1.0.0",
+  "description": "A Chrome extension featuring a game.",
+  "main": "src/background.js",
+  "scripts": {
+    "build": "echo 'Build script not defined'",
+    "test": "echo 'Test script not defined'"
+  },
+  "keywords": [
+    "chrome",
+    "extension",
+    "game"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
