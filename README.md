@@ -4,16 +4,14 @@ Flappy Bill is a retake on the classic flappy bird game where you usually would 
 I'm making this as my first ever project for SoM, and its the first ever Google extension game I've made. 
 
 # Controls
-**To Flap click either:**
-  
+**To Flap click either:**<br>
   Left-Click
   
   Space
   
   Up Arrow
 
-**To Reset click:**
-  
+**To Reset click:**<br>
   R
 
 
